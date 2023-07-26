@@ -8,6 +8,6 @@ class SpringJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-	
+	}
 
 }
